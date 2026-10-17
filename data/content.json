@@ -1,0 +1,118 @@
+{
+ "theme": "neon",
+ "home": {
+  "h1": "I KEEP SYSTEMS",
+  "h2": " RUNNING.",
+  "h3": "AND MAKE THEM ",
+  "h4": "BETTER.",
+  "name": "Shoaib Shafqat",
+  "intro": "— an IT Support & Assistant Hardware Engineer with 2 years of experience in hardware troubleshooting, network infrastructure, Windows systems, and dependable end-user support."
+ },
+ "about": {
+  "h1": "Tech support,",
+  "h2": "with intention.",
+  "lead": "I help people and teams stay productive by keeping computers, networks, and everyday IT systems working reliably.",
+  "body": "My approach is practical: identify the issue, troubleshoot methodically, communicate clearly, and document the solution. From Windows deployment and hardware diagnostics to LAN support and meeting-room technology, I enjoy turning technical problems into smooth experiences."
+ },
+ "work": {
+  "t1": "Problems solved.",
+  "t2": "Systems supported.",
+  "intro": "Real jobs from hospital IT, from cabling and switches to attendance devices and recovery tools."
+ },
+ "contact": {
+  "title": "Have a system to fix or a team to support?",
+  "text": "Let’s connect to discuss IT support, hardware troubleshooting, and networking opportunities.",
+  "email": "sattishoaib688@gmail.com",
+  "phone": "+92 318 5345383",
+  "whatsapp": "923185345383",
+  "location": "Rawalpindi, Pakistan",
+  "socials": []
+ },
+ "services": {
+  "show": true,
+  "title": "Services",
+  "sub": "Practical IT help. Prices are shown when set; otherwise ask for a quote.",
+  "items": [
+   {
+    "title": "PC & Laptop Troubleshooting",
+    "desc": "Hardware and software diagnosis, repair and upgrades for desktops and laptops.",
+    "price": ""
+   },
+   {
+    "title": "Windows Installation & Recovery",
+    "desc": "Clean install, drivers, applications, backup and system recovery.",
+    "price": ""
+   },
+   {
+    "title": "LAN Setup & Network Support",
+    "desc": "RJ45 termination, switch setup, IP configuration and connectivity troubleshooting.",
+    "price": ""
+   },
+   {
+    "title": "Printer, Biometric & Device Setup",
+    "desc": "Printer sharing, RFID/ZKT attendance devices and basic IP CCTV support.",
+    "price": ""
+   }
+  ]
+ },
+ "awards": [
+  {
+   "title": "CCNA",
+   "tag": "Networking",
+   "desc": "Cisco Certified Network Associate. Certified March 2026, valid through March 2029.",
+   "image": "certs/ccna-preview.jpg"
+  },
+  {
+   "title": "Network Penetration Testing",
+   "tag": "Security",
+   "desc": "Internship certificate from Vision Tech 360, 13 September to 30 November 2024.",
+   "image": "certs/pentest-preview.jpg"
+  },
+  {
+   "title": "PEEF Scholarship",
+   "tag": "Award",
+   "desc": "Punjab Educational Endowment Fund scholarship for academic achievement, awarded in 2015 and 2017.",
+   "image": "certs/peef-preview.jpg"
+  }
+ ],
+ "projects": [
+  {
+   "title": "LAN Deployment & Support",
+   "cat": "Networking / Infrastructure",
+   "desc": "Part of the LAN deployment at Nawaz Sharif Cardiology Centre, Murree (NSCC), plus everyday connectivity faults and cable repair at RIC.",
+   "tags": "TCP/IP, Switching, Troubleshooting",
+   "image": "",
+   "featured": true
+  },
+  {
+   "title": "System Recovery Toolkit",
+   "cat": "Windows / Recovery",
+   "desc": "Bootable WinPE and MediCat USB tools with command-line checks to diagnose a machine and recover it without losing user data.",
+   "tags": "WinPE, Diagnostics, Recovery",
+   "image": "",
+   "featured": true
+  },
+  {
+   "title": "Endpoints, Printers & Access Devices",
+   "cat": "Hardware / Help desk",
+   "desc": "PC setup, drivers, shared printing and hardware replacement, plus biometric, RFID and ZKT attendance devices and basic IP CCTV.",
+   "tags": "Windows, Printers, Biometric / ZKT",
+   "image": "",
+   "featured": true
+  },
+  {
+   "title": "Meeting Room Readiness",
+   "cat": "Collaboration / User support",
+   "desc": "Checking audio and video and helping users join Teams or Zoom calls so meetings start on time.",
+   "tags": "Microsoft Teams, Zoom, AV support",
+   "image": "",
+   "featured": true
+  }
+ ],
+ "images": {
+  "poster": "shoaib-it-profile-poster.webp",
+  "ric": "ric-hospital.webp",
+  "nscc": "nscc-tower.webp",
+  "vision": "visiontech-360.jpg"
+ }
+}
